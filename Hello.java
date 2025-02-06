@@ -5,7 +5,7 @@ public class Hello {
         /*scanner scan = new scanner{system.in};
         System.out.println("enter a number:");
         int a = scan.nextInt();*/
-        int a = 6&1;
+        int a = 8&2;
         System.out.println(a);
 
     
